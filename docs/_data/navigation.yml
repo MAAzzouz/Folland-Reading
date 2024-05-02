@@ -54,17 +54,30 @@ header:
 docs-en:
   - title: Active Projects
     children:
-      - title: 1
-        url: "https://www.google.com"
+      - title: Intro to Mathematical Cryptography
+        url: math/2023/08/22/hamiltonian-dynamics-homepage.html
+        
+  - title: Old Projects
+    children:
+      - title: MATH 263 Tutorial Notes
+        url: math/2024/05/02/hamiltonian-dynamics-homepage.html
+      - title: ECSE 343 Notes (Incomplete)
+        url: /download/343-notes.pdf
+      - title: Mini-Project Admission Control
+        url: /download/admission-control.pdf
+      - title: ECSE 507 Final Project
+        url: /download/507-final-project.pdf      
+        
   - title: Links
     children:
-      - title: 2
-        url: "https://www.google.com"
-  - title: Errata
-    children:
-      - title: Folland New
-        url: "https://sites.math.washington.edu//~folland/Homepage/reals.pdf"
-      - title: Folland Old
-        url: "https://sites.math.washington.edu//~folland/Homepage/oldreals.pdf"
-      - title: Lee ISM
-        url: "https://sites.math.washington.edu/~lee/Books/ISM/errata.pdf"
+      - title: Website
+        url: website/2023/05/09/website-setup.html
+      - title: Latex
+        url: latex/2023/05/11/useful-latex-resources.html
+      - title: Analysis
+        url: math/2023/05/18/useful-links.html
+      - title: Inactive projects
+        url: projects/2023/10/04/inactive-projects.html
+      - title: Something really cool
+        url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"  
+
