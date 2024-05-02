@@ -55,12 +55,12 @@ docs-en:
   - title: Active Projects
     children:
       - title: Intro to Mathematical Cryptography
-        url: math/2023/08/22/hamiltonian-dynamics-homepage.html
+        url: /download/cryptography.pdf
         
   - title: Old Projects
     children:
       - title: MATH 263 Tutorial Notes
-        url: math/2024/05/02/hamiltonian-dynamics-homepage.html
+        url: math-263-notes.html
       - title: ECSE 343 Notes (Incomplete)
         url: /download/343-notes.pdf
       - title: Mini-Project Admission Control
