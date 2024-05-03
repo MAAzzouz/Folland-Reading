@@ -1,14 +1,40 @@
-# Welcome to My Website
+# MATH 263 Documents
 
-## Internal Links
+Here are the notes I wrote to give my MATH 263 Tutorials (ODEs for Engineers) in Fall 2021. It may be helpful to someone. I pulled many of the exercises from the course's [textbook](https://bcs.wiley.com/he-bcs/Books?action=index&itemId=0470458313&bcsId=7535).
 
-- [About Me](about.md)
-- [test](/download/admission-control.pdf)
-- [Projects](projects.md)
+## Tutorial Notes
 
-## External Links
+- [Tutorial 2 Notes (also covered Tutorial 1)](/MATH%20263/Tutorial_2_Notes.pdf)
+- [Tutorial 3 Notes](/MATH%20263/Tutorial_3_Notes.pdf)
+- [Tutorial 4 Notes](/MATH%20263/Tutorial_4_Notes.pdf)
+- [Tutorial 5 Notes](/MATH%20263/Tutorial_5_Notes.pdf)
+- [Tutorial 6 Notes](/MATH%20263/Tutorial_6_Notes.pdf)
+- [Tutorial 7 Notes](/MATH%20263/Tutorial_7_Notes.pdf)
+- [Tutorial 8 Notes](/MATH%20263/Tutorial_8_Notes.pdf)
+- [Tutorial 9 Notes](/MATH%20263/Tutorial_9_Notes.pdf)
+- [Tutorial 10 Notes](/MATH%20263/Tutorial_10_Notes.pdf)
+- [Tutorial 11 Notes](/MATH%20263/Tutorial_11_Notes.pdf)
+- [Tutorial 12 Notes](/MATH%20263/Tutorial_12_Notes.pdf)
+- [Tutorial 13 Notes](/MATH%20263/Tutorial_13_Notes.pdf)
 
-- [Google](https://www.google.com/)
-- [OpenAI](https://www.openai.com/)---
-layout: math-263
----
+## Midterm Review Document
+
+- [Midterm Review Document](/MATH%20263/Midterm_Review_Document.pdf)
+
+## Pre-Tutorial Notes
+
+- [Pre-Tutorial 2 Notes (also covered Tutorial 1)](/MATH%20263/Pre_Tutorial_2_Notes.pdf)
+- [Tutorial 2 Extra Problems](/MATH%20263/Tutorial_2_Extra_Problems.pdf) 
+- [Pre-Tutorial 3 Notes](/MATH%20263/Pre_Tutorial_3_Notes.pdf)
+- [Pre-Tutorial 4 Notes](/MATH%20263/Pre_Tutorial_4_Notes.pdf)
+- [Pre-Tutorial 5 Notes](/MATH%20263/Pre_Tutorial_5_Notes.pdf)
+- [Pre-Tutorial 6 Notes](/MATH%20263/Pre_Tutorial_6_Notes.pdf)
+- [Pre-Tutorial 7 Notes](/MATH%20263/Pre_Tutorial_7_Notes.pdf)
+- [Pre-Tutorial 8 Notes](/MATH%20263/Pre_Tutorial_8_Notes.pdf)
+- [Pre-Tutorial 9 Notes](/MATH%20263/Pre_Tutorial_9_Notes.pdf)
+- [Pre-Tutorial 10 Notes](/MATH%20263/Pre_Tutorial_10_Notes.pdf)
+- [Pre-Tutorial 11 Notes](/MATH%20263/Pre_Tutorial_11_Notes.pdf)
+- [Pre-Tutorial 12 Notes](/MATH%20263/Pre_Tutorial_12_Notes.pdf)
+- [Pre-Tutorial 13 Notes](/MATH%20263/Pre_Tutorial_13_Notes.pdf)
+
+
