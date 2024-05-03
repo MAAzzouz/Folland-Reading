@@ -55,7 +55,7 @@ docs-en:
   - title: Active Projects
     children:
       - title: Intro to Mathematical Cryptography
-        url: /download/cryptography.pdf
+        url: /download/Cryptography.pdf
         
   - title: Old Projects
     children:
