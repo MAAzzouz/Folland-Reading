@@ -17,7 +17,7 @@ Here are the notes I wrote to give my MATH 263 Tutorials (ODEs for Engineers) in
 
 ## Midterm Review Document
 
-- [Midterm Review Document](/MATH%20263/Midterm_Review_Document.pdf)
+- [Midterm Review Document](download/MATH%20263/Midterm_Review_Document.pdf)
 
 ## Pre-Tutorial Notes
 
