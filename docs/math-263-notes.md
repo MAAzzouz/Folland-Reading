@@ -1,5 +1,3 @@
-# MATH 263 Documents
-
 Here are the notes I wrote to give my MATH 263 Tutorials (ODEs for Engineers) in Fall 2021. It may be helpful to someone. I pulled many of the exercises from the course's [textbook](https://bcs.wiley.com/he-bcs/Books?action=index&itemId=0470458313&bcsId=7535).
 
 ## Tutorial Notes
