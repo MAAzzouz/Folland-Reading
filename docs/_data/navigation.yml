@@ -60,7 +60,7 @@ docs-en:
   - title: Old Projects
     children:
       - title: MATH 263 Tutorial Notes
-        url: math-263-notes.md
+        url: math-263-notes.html
       - title: ECSE 343 Notes (Incomplete)
         url: /download/343-notes.pdf
       - title: Mini-Project Admission Control
